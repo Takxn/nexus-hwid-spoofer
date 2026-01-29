@@ -1,5 +1,12 @@
-
 # Nexus+ HWID Spoofer v3.0.0
+
+![Version](https://img.shields.io/badge/version-3.0.0-blue)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
+![License](https://img.shields.io/badge/license-Educational-green)
+![AI](https://img.shields.io/badge/built%20with-Claude%20AI-purple)
+![Status](https://img.shields.io/badge/status-Experimental-orange)
+
+---
 
 ## ⚠️ Disclaimer - AI Experiment Project
 
@@ -29,8 +36,6 @@ With my current knowledge, I am not able to find these offsets myself either. To
 | File | Description |
 |------|-------------|
 | `Nexus+-Setup-3.0.0.exe` | Windows Installer |
-| `Nexus+-Portable-3.0.0.zip` | Portable Version |
-| `Nexus+-Server-3.0.0.zip` | Server Components |
 
 ## Requirements
 
@@ -53,6 +58,12 @@ If you're interested in the source code, feel free to contact me:
 
 ---
 
+## Tags
+
+`hwid` `spoofer` `windows` `kernel` `driver` `ai-experiment` `claude` `electron` `discord` `educational`
+
+---
+
 ## Conclusion
 
 This project demonstrates both the impressive capabilities and current limitations of AI in software development. While the AI could build a complete, professional-looking application with complex features, it couldn't solve the core technical challenge that requires specialized reverse engineering knowledge.
@@ -60,10 +71,6 @@ This project demonstrates both the impressive capabilities and current limitatio
 **This is NOT a fully working HWID spoofer. It's an educational project demonstrating AI capabilities.**
 
 ---
-
-## License
-
-This project is for educational purposes only. Use at your own risk.
 
 © 2026 - AI Experiment Project
 
