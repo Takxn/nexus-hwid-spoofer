@@ -138,7 +138,7 @@ Use at your own risk.
 
 ## 📞 Support
 
-- 💬 [Discord Server](https://discord.gg/nexusplus)
+- 💬 [Discord Server](https://discord.gg/nexus-plus)
 - 📧 Support available after purchase
 
 ---
