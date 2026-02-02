@@ -1,6 +1,6 @@
-# Nexus+ HWID Spoofer v3.0.0
+# Nexus+ HWID Spoofer v3.0.2
 
-![Version](https://img.shields.io/badge/version-3.0.0-blue)
+![Version](https://img.shields.io/badge/version-3.0.2-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
 ![License](https://img.shields.io/badge/license-Educational-green)
 ![AI](https://img.shields.io/badge/built%20with-Claude%20AI-purple)
