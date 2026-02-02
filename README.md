@@ -96,7 +96,7 @@
 - ✅ Secure Boot **disabled**
 - ✅ Discord account (for license activation)
 
-- ↩️ [defender control] (https://github.com/pgkt04/defender-control)
+- ↩️ [defender control](https://github.com/pgkt04/defender-control)
 ---
 
 ## 🛠️ Installation
