@@ -172,3 +172,24 @@ Use at your own risk.
 <img width="1800" height="1300" alt="Screenshot 2026-01-29 083607" src="https://github.com/user-attachments/assets/48d7ef73-d57e-4e99-bb75-cab1e5fe0f18" />
 
 
+beta
+testing
+windows
+windows-11
+windows-10
+x64
+system-tool
+system-utility
+kernel-driver
+low-level
+hardware
+device-management
+identifier-management
+registry
+ndis
+performance
+stability
+modern-ui
+discord-integration
+security-research
+experimental
