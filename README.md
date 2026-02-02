@@ -91,10 +91,12 @@
 ## 📋 System Requirements
 
 - ✅ Windows 10/11 (64-bit)
+- ✅ Windows Defense **Off** (https://github.com/pgkt04/defender-control)
 - ✅ Administrator privileges
 - ✅ Secure Boot **disabled**
 - ✅ Discord account (for license activation)
 
+- ↩️ https://github.com/pgkt04/defender-control
 ---
 
 ## 🛠️ Installation
