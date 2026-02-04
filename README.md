@@ -171,7 +171,8 @@ Use at your own risk.
 
 
 
-<img width="1800" height="1300" alt="Screenshot 2026-01-29 083607" src="https://github.com/user-attachments/assets/48d7ef73-d57e-4e99-bb75-cab1e5fe0f18" />
+<img width="1800" height="1300" alt="image" src="https://github.com/user-attachments/assets/f71deaa4-a2cd-419c-bddc-54c2dc814283" />
+
 
 
 beta
