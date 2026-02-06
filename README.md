@@ -1,4 +1,4 @@
-# Nexus+ HWID Spoofer v3.0.2
+# Nexus+ HWID Spoofer v3.1.2
 
 ![Version](https://img.shields.io/badge/version-3.0.2-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
